@@ -4,6 +4,9 @@
 
 # Session Data files
 .RData
+# Environment file
+.Renviron
+
 
 # User-specific files
 .Ruserdata

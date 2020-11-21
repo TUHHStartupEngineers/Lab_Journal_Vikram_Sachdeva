@@ -1,9 +1,9 @@
-name: "MyLabJournal"
+name: "TUHH Data Science Journal"
 output:
   html_document:
     css: style.css
 navbar:
-  title: "MyLabJournal"
+  title: "Lab Journal of Vikram Sachdeva"
   left:
     - text: "Home"
       href: index.html
