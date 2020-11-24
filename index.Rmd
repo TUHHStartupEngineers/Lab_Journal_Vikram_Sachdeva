@@ -11,6 +11,3 @@ output: html_document
 
 Welcome! This website serves as my submittable for the Introduction to Data Science served at the Institute of Entrepreneurship at TUHH: 
 
-## My Qualms with the course 
-
-Advertised as intro course, this course delves deep not just into R, but also HTML and CSS. While this is not a problem for me, I definitely think this will scare off beginners in programming. 
